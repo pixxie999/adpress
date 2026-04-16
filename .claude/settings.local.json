@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run:*)",
+      "Bash(python3 -m venv scripts/.venv)",
+      "Bash(scripts/.venv/bin/pip install:*)",
+      "Bash(scripts/.venv/bin/python scripts/generate_content.py --batch scripts/keywords.txt --priority high)",
+      "Skill(codex:setup)",
+      "Skill(codex:rescue)",
+      "Bash(ls /Users/kosangsuk/Desktop/uasoft/adpress/*.ts /Users/kosangsuk/Desktop/uasoft/adpress/*.js /Users/kosangsuk/Desktop/uasoft/adpress/*.json)",
+      "Bash(ls /Users/kosangsuk/Desktop/uasoft/adpress/.env*)",
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "Bash(git commit -m ':*)"
+    ]
+  }
+}

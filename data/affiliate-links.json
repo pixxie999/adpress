@@ -1,0 +1,39 @@
+[
+  {
+    "id": "coupang-partners",
+    "platform": "쿠팡",
+    "product": "쿠팡 파트너스 가입",
+    "url": "https://partners.coupang.com/",
+    "description": "쿠팡 제휴마케팅 파트너스 프로그램"
+  },
+  {
+    "id": "tistory-blog",
+    "platform": "티스토리",
+    "product": "티스토리 블로그 개설",
+    "url": "https://www.tistory.com/",
+    "description": "애드센스 수익화에 최적화된 블로그 플랫폼"
+  },
+  {
+    "id": "semrush",
+    "platform": "SEMrush",
+    "product": "SEMrush SEO 도구",
+    "url": "https://www.semrush.com/",
+    "discount": "14일 무료",
+    "description": "전문가용 SEO 키워드 리서치 도구"
+  },
+  {
+    "id": "ahrefs",
+    "platform": "Ahrefs",
+    "product": "Ahrefs 키워드 분석",
+    "url": "https://ahrefs.com/",
+    "description": "백링크 및 키워드 분석 도구"
+  },
+  {
+    "id": "mailchimp",
+    "platform": "Mailchimp",
+    "product": "Mailchimp 이메일 마케팅",
+    "url": "https://mailchimp.com/",
+    "discount": "무료 플랜",
+    "description": "뉴스레터 이메일 마케팅 플랫폼"
+  }
+]

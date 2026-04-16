@@ -1,0 +1,22 @@
+{
+  "name": "AdPress",
+  "tagline": "광고 수익을 프레스하다",
+  "description": "애드센스, 애드포스트 등 광고 수익 최적화 전략과 노하우",
+  "url": "https://adpress.kr",
+  "locale": "ko",
+  "twitter": "@adpresskr",
+  "author": "AdPress",
+  "categories": [
+    { "slug": "guides", "name": "실전 가이드", "description": "단계별 완벽 가이드" },
+    { "slug": "tips", "name": "실전 팁", "description": "즉시 적용 가능한 팁" },
+    { "slug": "income-reports", "name": "수익 리포트", "description": "매월 공개 수익 리포트" },
+    { "slug": "reviews", "name": "플랫폼 리뷰", "description": "솔직한 도구/플랫폼 리뷰" }
+  ],
+  "navigation": [
+    { "href": "/guides", "label": "가이드" },
+    { "href": "/tips", "label": "실전 팁" },
+    { "href": "/income-reports", "label": "수익 리포트" },
+    { "href": "/reviews", "label": "플랫폼 리뷰" },
+    { "href": "/tools/income-calculator", "label": "수익 계산기" }
+  ]
+}

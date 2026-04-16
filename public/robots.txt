@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://adpress.kr/sitemap.xml
+
+# 크롤링 제외
+Disallow: /api/
+Disallow: /_next/

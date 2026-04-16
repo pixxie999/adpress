@@ -1,0 +1,32 @@
+{
+  "2024-03": {
+    "adsense": 120000,
+    "adpost": 35000,
+    "coupang": 80000,
+    "affiliate": 150000,
+    "total": 385000,
+    "pageviews": 25000,
+    "visitors": 6500,
+    "rpm_usd": 8.5,
+    "top_content": [
+      { "title": "애드센스 승인 가이드", "pageviews": 3200, "revenue": 45000 },
+      { "title": "애드포스트 완전 정복", "pageviews": 2800, "revenue": 38000 },
+      { "title": "광고 배치 최적화 전략", "pageviews": 2100, "revenue": 29000 }
+    ]
+  },
+  "2024-04": {
+    "adsense": 145000,
+    "adpost": 42000,
+    "coupang": 95000,
+    "affiliate": 180000,
+    "total": 462000,
+    "pageviews": 31000,
+    "visitors": 8200,
+    "rpm_usd": 9.2,
+    "top_content": [
+      { "title": "고수익 CPC 키워드 찾기", "pageviews": 4100, "revenue": 58000 },
+      { "title": "애드센스 RPM 올리는 법", "pageviews": 3600, "revenue": 50000 },
+      { "title": "모바일 광고 최적화 가이드", "pageviews": 2900, "revenue": 38000 }
+    ]
+  }
+}
